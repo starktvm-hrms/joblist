@@ -30,15 +30,30 @@ say() { printf '\n\033[1;34m==> %s\033[0m\n' "$*"; }
 
 say "Installing system packages"
 export DEBIAN_FRONTEND=noninteractive
-apt-get update -qq
-apt-get install -y -qq git curl ca-certificates nginx certbot python3-certbot-nginx openssl >/dev/null
+PKGS=(git curl ca-certificates xz-utils nginx certbot python3-certbot-nginx openssl)
+MISSING=()
+for p in "${PKGS[@]}"; do dpkg -s "$p" >/dev/null 2>&1 || MISSING+=("$p"); done
+if [ ${#MISSING[@]} -gt 0 ]; then
+  # A broken third-party apt source (e.g. Monarx on a new Ubuntu release) must not stop the install.
+  apt-get update -qq || echo "!! apt-get update reported errors (see above); continuing with available sources"
+  apt-get install -y -qq "${MISSING[@]}" >/dev/null
+else
+  echo "All system packages already installed"
+fi
 
-# Node.js 22.13+ is required (built-in SQLite).
+# Node.js 22.13+ is required (built-in SQLite). Installed from nodejs.org so it does not depend on apt.
 node_ok() { command -v node >/dev/null && node -e 'const [a,b]=process.versions.node.split(".").map(Number);process.exit(a>22||(a===22&&b>=13)?0:1)'; }
 if ! node_ok; then
-  say "Installing Node.js 22"
-  curl -fsSL https://deb.nodesource.com/setup_22.x | bash - >/dev/null
-  apt-get install -y -qq nodejs >/dev/null
+  say "Installing Node.js 22 from nodejs.org"
+  case "$(uname -m)" in x86_64) NARCH=x64 ;; aarch64|arm64) NARCH=arm64 ;; *) echo "Unsupported CPU $(uname -m)"; exit 1 ;; esac
+  NVER="$(curl -fsSL https://nodejs.org/dist/latest-v22.x/SHASUMS256.txt | grep -o "node-v22[0-9.]*-linux-$NARCH.tar.xz" | head -1)"
+  [ -n "$NVER" ] || { echo "Could not find a Node.js 22 download"; exit 1; }
+  TMP="$(mktemp -d)"
+  curl -fsSL "https://nodejs.org/dist/latest-v22.x/$NVER" -o "$TMP/$NVER"
+  (cd "$TMP" && curl -fsSL https://nodejs.org/dist/latest-v22.x/SHASUMS256.txt | grep " $NVER\$" | sha256sum -c - >/dev/null)
+  tar -xJf "$TMP/$NVER" -C /usr/local --strip-components=1 --exclude='*.md' --exclude=LICENSE
+  rm -rf "$TMP"
+  hash -r
 fi
 node_ok || { echo "Node.js 22.13+ is required, found $(node -v 2>/dev/null || echo none)"; exit 1; }
 echo "Node $(node -v)"
