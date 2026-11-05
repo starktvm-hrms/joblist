@@ -1,0 +1,2668 @@
+{
+ "weeks": [
+  {
+   "label": "7 July",
+   "week_start": "2025-07-07",
+   "departments": {
+    "Copy": [
+     {
+      "name": "Shelton",
+      "jobs": [
+       {
+        "title": "DoT Brand Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KT Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KT BW Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Ajith",
+      "jobs": [
+       {
+        "title": "DoT Travel Campaign",
+        "servicing": "Manikutty",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KT Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather South Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Seetha",
+      "jobs": [
+       {
+        "title": "DoT Brand Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Travel Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT International RS Collateral",
+        "servicing": "Sree",
+        "monday": "TBB 3",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Rajeshwari",
+      "jobs": [
+       {
+        "title": "DoT SM/Reels Creatives",
+        "servicing": "Kenney",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTDC SM/Short Videos Creatives",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": "TBB"
+       },
+       {
+        "title": "DoT National RS Collateral",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Luke",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Onam SM Videos",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Cattle Feed Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KIMS General Surgery Hoarding",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": "OVR"
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": "OVR"
+       }
+      ]
+     },
+     {
+      "name": "Bindya",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Pran SM Campaign/No Tobacco Day",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Curd Banner Ads",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": "TBB"
+       },
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": "TBB"
+       }
+      ]
+     },
+     {
+      "name": "Noora",
+      "jobs": [
+       {
+        "title": "Pran Social Media Creative",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": "TBB"
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Destination Print Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Gayathri/Anna",
+      "jobs": [
+       {
+        "title": "KIMS SM Creative - IVF",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Asianet Onam Mailer",
+        "servicing": "Gautam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KSUM Huddle SM Creatives",
+        "servicing": "Roshith",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Arunachal August SM Calendar",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Krishna/Michelle",
+      "jobs": [
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Pran Social Media Creative",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal SM Creative",
+        "servicing": "Sandesh",
+        "monday": "TBB 1",
+        "friday": "CAN"
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Digital Film",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "MoT Meri Kashi Branding",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KSUM Huddle SM Creatives",
+        "servicing": "Roshith",
+        "monday": "TBB",
+        "friday": "TBB"
+       }
+      ]
+     }
+    ],
+    "Art": [
+     {
+      "name": "Unni",
+      "jobs": [
+       {
+        "title": "DoT National Trade Fair Stand Design",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KT Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT International Trade Fair Stand",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Abhinav",
+      "jobs": [
+       {
+        "title": "DoT Summer Holidays SM Content",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT International RS Collateral",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT SM Creatives",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Kameela + Abhinand",
+      "jobs": [
+       {
+        "title": "MILMA SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KTM WMC Flier/Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Destination Print Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "MoT Meri Kashi Branding",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Praveen",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT SM Creatives",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTDC SM Creatives",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KIMS Transplant Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Kerala Soap Presentation",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTM WMC Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KSIDC MVT Logo",
+        "servicing": "Roshith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Aravind",
+      "jobs": [
+       {
+        "title": "DoT International Trade Fair Stand",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT National Trade Fair Stand Design",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Vijaya SM Creative",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT National RS Collateral",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Mohd. Riyas",
+      "jobs": [
+       {
+        "title": "Ather Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KSIDC MVT Logo",
+        "servicing": "Roshith",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Annual Report",
+        "servicing": "Kiran",
+        "monday": "OVR",
+        "friday": null
+       },
+       {
+        "title": "KIMS General Surgery Hoarding",
+        "servicing": "Sunny",
+        "monday": "OVR",
+        "friday": null
+       },
+       {
+        "title": "Milma Curd Banner Ads",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Anani Brochure",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Apprentice Art",
+      "jobs": [
+       {
+        "title": "KIMS SM Creative - IVF",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Asianet Onam Mailer",
+        "servicing": "Gautam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "St Rochs Centenary School Collateral",
+        "servicing": "Achuth",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HDN Posters",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Map Icons",
+        "servicing": "Pradeep",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Influencer Trip Logos",
+        "servicing": "Pradeep",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "DoT Campaign",
+        "servicing": "Manoj",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KIMS General Surgery Hoarding",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     }
+    ],
+    "Production": [
+     {
+      "name": "TVM",
+      "jobs": [
+       {
+        "title": "KTDC SM Posts",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KT Activity Booklet",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Destination Brochures",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Must Do Brochures",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "St Rochs Centenary School Collateral",
+        "servicing": "Achuth",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather 450 Offer Digital Adapts",
+        "servicing": "Sunny",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Middle East Airport Displays",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KSUM Huddle Creatives",
+        "servicing": "Roshith",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Ather 450 Amazon Creatives",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Deepu/Abhijit",
+      "jobs": [
+       {
+        "title": "KT Campaigns",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Biennale Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Digital Onam Campaign",
+        "servicing": "Kenney",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Digital Film",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather South TVC",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Video",
+      "jobs": [
+       {
+        "title": "KT MICE Campaign",
+        "servicing": "Manikutty",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KT Festival Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Beach Video",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KT Ayurevda Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Onam SM Videos",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL Curtain Raiser/Testimonial Video",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Digital Film",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KTM WMC Reels",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST Awareness Film",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Employees Reels Contest Video",
+        "servicing": "Anakha",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "TCG Zepto Video",
+        "servicing": "Saroop",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL World Poulation Day Video",
+        "servicing": "Anoop",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Dairy Whitener Video",
+        "servicing": "Anakha",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Seesa Orchid Digital Video",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "KOC",
+      "jobs": []
+     },
+     {
+      "name": "BAN",
+      "jobs": [
+       {
+        "title": "Arunachal Bus Branding",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Tawang Brochure Correction",
+        "servicing": "Pradeep",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "label": "14 July",
+   "week_start": "2025-07-14",
+   "departments": {
+    "Copy": [
+     {
+      "name": "Shelton",
+      "jobs": [
+       {
+        "title": "DoT Brand Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KT Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KT BW Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Ajith",
+      "jobs": [
+       {
+        "title": "DoT Travel Campaign",
+        "servicing": "Manikutty",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KT Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Ather South Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Seetha",
+      "jobs": [
+       {
+        "title": "DoT Brand Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Travel Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT International RS Collateral",
+        "servicing": "Sree",
+        "monday": "TBB 3",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Rajeshwari",
+      "jobs": [
+       {
+        "title": "DoT SM/Reels Creatives",
+        "servicing": "Kenney",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KTDC SM/Short Videos Creatives",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT National RS Collateral",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "OVR"
+       }
+      ]
+     },
+     {
+      "name": "Luke",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Cattle Feed Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "PRD GoK Achievment Video",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather South Film Script",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KIMS Transplant Campaign",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST Casual Tax Explainer Video",
+        "servicing": "Parvathy",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Bindya",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "PRD GoK Achievment Video",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Ather South Film Script",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KIMS Transplant Campaign",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Noora",
+      "jobs": [
+       {
+        "title": "Pran Social Media Creative",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Destination Print Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Namsai Campaign",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Gayathri/Anna",
+      "jobs": [
+       {
+        "title": "KIMS SM Creative",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Asianet Onam Mailer",
+        "servicing": "Gautam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal August SM Calendar",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL Independence Day Video",
+        "servicing": "Arvind",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KLIP BioConnect Branding",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Krishna/Michelle",
+      "jobs": [
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Pran Social Media Creative",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Digital Film",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "MoT Meri Kashi Branding",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL Independence Day Video",
+        "servicing": "Arvind",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Dong Valley Campaign",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": "TBB"
+       }
+      ]
+     }
+    ],
+    "Art": [
+     {
+      "name": "Unni",
+      "jobs": [
+       {
+        "title": "DoT National Trade Fair Stand Design",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KT Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT International Trade Fair Stand",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "OVR"
+       }
+      ]
+     },
+     {
+      "name": "Abhinav",
+      "jobs": [
+       {
+        "title": "DoT Summer Holidays SM Content",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT International RS Collateral",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT SM Creatives",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Brochure",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": "OVR"
+       }
+      ]
+     },
+     {
+      "name": "Kameela + Abhinand",
+      "jobs": [
+       {
+        "title": "MILMA SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Yoga Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KTM WMC Flier/Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Arunachal Destination Print Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "MoT Meri Kashi Branding",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Praveen",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT SM Creatives",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTDC SM Creatives",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KIMS Transplant Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Kerala Soap Presentation",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTM WMC Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KSIDC MVT Logo",
+        "servicing": "Roshith",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Aravind",
+      "jobs": [
+       {
+        "title": "DoT International Trade Fair Stand",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT National Trade Fair Stand Design",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Vijaya SM Creative",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT National RS Collateral",
+        "servicing": "Sreejith",
+        "monday": "WIP",
+        "friday": "OVR"
+       }
+      ]
+     },
+     {
+      "name": "Mohd. Riyas",
+      "jobs": [
+       {
+        "title": "Ather Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KSIDC MVT Logo",
+        "servicing": "Roshith",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Curd Banner Ads",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Anani Brochure",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KIMS Transplant Campaign",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Apprentice Art",
+      "jobs": [
+       {
+        "title": "KIMS SM Creative - IVF",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Asianet Onam Mailer",
+        "servicing": "Gautam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Map Icons",
+        "servicing": "Pradeep",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Influencer Trip Logos",
+        "servicing": "Pradeep",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "DoT Campaign",
+        "servicing": "Manoj",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KIMS General Surgery Hoarding",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KLIP BioConnect Branding",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Memento Design",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     }
+    ],
+    "Production": [
+     {
+      "name": "TVM",
+      "jobs": [
+       {
+        "title": "KTDC SM Posts",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KT Activity Booklet",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Destination Brochures",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Must Do Brochures",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "St Rochs Centenary School Collateral",
+        "servicing": "Achuth",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Ather 450 Offer Digital Adapts",
+        "servicing": "Sunny",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "DoT Middle East Airport Displays",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather 450 Amazon Creatives",
+        "servicing": "Sunny",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Deepu/Abhijit",
+      "jobs": [
+       {
+        "title": "KT Campaigns",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Biennale Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Digital Onam Campaign",
+        "servicing": "Kenney",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Digital Film",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Ather South TVC",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "Video",
+      "jobs": [
+       {
+        "title": "KT MICE Campaign",
+        "servicing": "Manikutty",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Sree",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KT Festival Campaign",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "DoT Beach Video",
+        "servicing": "Manoj",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "KT Ayurevda Campaign",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Milma Onam SM Videos",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "KTM WMC Reels",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST Awareness Film",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Milma Employees Reels Contest Video",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "TCG Zepto Video",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "HLL World Poulation Day Video",
+        "servicing": "Anoop",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Milma Dairy Whitener Video",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Seesa Orchid Digital Video",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": "OVR"
+       },
+       {
+        "title": "Pran Product Motion Poster Campaign",
+        "servicing": "Anakha",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "GST Casual Tax Explainer Video",
+        "servicing": "Parvathy",
+        "monday": "TBB",
+        "friday": "WIP"
+       },
+       {
+        "title": "Arunachal Namsai Campaign",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": "WIP"
+       }
+      ]
+     },
+     {
+      "name": "KOC",
+      "jobs": []
+     },
+     {
+      "name": "BAN",
+      "jobs": [
+       {
+        "title": "Arunachal Bus Branding",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Tawang Brochure Correction",
+        "servicing": "Pradeep",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Stand Design",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "label": "21 July",
+   "week_start": "2025-07-21",
+   "departments": {
+    "Copy": [
+     {
+      "name": "Shelton",
+      "jobs": [
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Ajith",
+      "jobs": [
+       {
+        "title": "Ather South TVC",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Seetha",
+      "jobs": [
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Rajeshwari",
+      "jobs": [
+       {
+        "title": "DoT SM/Reels Creatives",
+        "servicing": "Kenney",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KTDC SM/Short Videos Creatives",
+        "servicing": "Maria",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KSIDC Onam DM",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KTDC WMC Stand",
+        "servicing": "Antony",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KTDC WMC Folder",
+        "servicing": "Antony",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Luke",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Cattle Feed Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "PRD GoK Achievment Video",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Ather South TVC",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "GST Casual Tax Explainer Video",
+        "servicing": "Parvathy",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Bottle Milk Launch Posters",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Bindya",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "GST SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "PRD GoK Achievment Video",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Ather South TVC",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Noora",
+      "jobs": [
+       {
+        "title": "Pran Social Media Creative",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Destination Print Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Namsai Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Ather Varalakshmi Digital Campaign",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Mailers",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Vijaya Derma Branding",
+        "servicing": "Gautam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "CIAL Presentation",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KTM WMC Collateral",
+        "servicing": "Anu",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Gayathri/Anna",
+      "jobs": [
+       {
+        "title": "KIMS SM Creative",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Asianet Onam Mailer",
+        "servicing": "Gautam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT Domestic Campaign",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal August SM Calendar",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL Independence Day Video",
+        "servicing": "Arvind",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KLIP BioConnect Branding",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KSIDC Onam DM",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "HDN Posters",
+        "servicing": "Gautam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Vijaya Derma Branding",
+        "servicing": "Gautam",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Krishna/Michelle",
+      "jobs": [
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Social Media Creative",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "MoT Meri Kashi Branding",
+        "servicing": "Ranjith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL Independence Day Video",
+        "servicing": "Arvind",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Dong Valley Campaign",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KSIDC Medical Tourism Branding",
+        "servicing": "Roshith",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Bottle Milk Launch Posters",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "CIAL Presentation",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     }
+    ],
+    "Art": [
+     {
+      "name": "Unni",
+      "jobs": [
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Abhinav",
+      "jobs": [
+       {
+        "title": "KSIDC Onam DM",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "HDN Posters",
+        "servicing": "Gautam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Ather Varalakshmi Digital Campaign",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Ather Ganesh Chathurthi Mailers",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Kameela + Abhinand",
+      "jobs": [
+       {
+        "title": "MILMA SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "HLL SM Creative",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran SM Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Destination Print Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KTM SM Creative",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "CIAL Presentation",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "DoT NRK Promotion Branding",
+        "servicing": "Antony",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Stand Design",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KTM WMC Collateral",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Praveen",
+      "jobs": [
+       {
+        "title": "Milma SM Creatives",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "DoT SM Creatives",
+        "servicing": "Nisha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KTDC SM Creatives",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KSIDC MVT Logo",
+        "servicing": "Roshith",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Onam Campaign",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Bottle Milk Launch Posters",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Aravind",
+      "jobs": [
+       {
+        "title": "GST SM Creative",
+        "servicing": "Varun",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Bottle Milk Launch Posters",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KTM WMC Collateral",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Mohd. Riyas",
+      "jobs": [
+       {
+        "title": "KSIDC MVT Logo",
+        "servicing": "Roshith",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Anani Brochure",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Apprentice Art",
+      "jobs": [
+       {
+        "title": "KIMS SM Creative",
+        "servicing": "Sunny",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Asianet Onam Mailer",
+        "servicing": "Gautam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Map Icons",
+        "servicing": "Pradeep",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Influencer Trip Logos",
+        "servicing": "Pradeep",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Milma Curd Train Branding",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KLIP BioConnect Branding",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Memento Design",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KSIDC Onam DM",
+        "servicing": "Aslam",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "KSIDC Medical Tourism Branding",
+        "servicing": "Roshith",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Gurudas",
+      "jobs": [
+       {
+        "title": "KTDC WMC Stand",
+        "servicing": "Antony",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Photo Booth",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     }
+    ],
+    "Production": [
+     {
+      "name": "TVM",
+      "jobs": [
+       {
+        "title": "KTDC SM Posts",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Ather 450 Offer Digital Adapts",
+        "servicing": "Sunny",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "PRD Ente Keralam Hoardings",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "MoT Varanasi Brochure",
+        "servicing": "Vishnu",
+        "monday": "WIP",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Deepu/Abhijit",
+      "jobs": [
+       {
+        "title": "Tata Coffee ICD Campaign",
+        "servicing": "Arvind",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Ather South TVC",
+        "servicing": "Manjit",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Litchi South TVC",
+        "servicing": "Ranjith",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "Video",
+      "jobs": [
+       {
+        "title": "Milma Onam SM Videos",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "KTM WMC Reels",
+        "servicing": "Maria",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "GST Awareness Film",
+        "servicing": "Aslam",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "TCG Zepto Video",
+        "servicing": "Saroop",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Dairy Whitener Video",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Pran Product Motion Poster Campaign",
+        "servicing": "Anakha",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "GST Casual Tax Explainer Video",
+        "servicing": "Parvathy",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Namsai Campaign",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Milma Bottle Milk Launch Video",
+        "servicing": "Manjit",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "HLL Menstrual Hygiene Education Reel",
+        "servicing": "Parvathy",
+        "monday": "TBB",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Pasighat Digital Video",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "KOC",
+      "jobs": [
+       {
+        "title": "TNP Leaflet",
+        "servicing": "Anu",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     },
+     {
+      "name": "BAN",
+      "jobs": [
+       {
+        "title": "Arunachal Bus Branding",
+        "servicing": "Sandesh",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal Tawang Brochure Correction",
+        "servicing": "Pradeep",
+        "monday": "WIP",
+        "friday": null
+       },
+       {
+        "title": "Arunachal IITM Stand Design",
+        "servicing": "Sandesh",
+        "monday": "TBB",
+        "friday": null
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

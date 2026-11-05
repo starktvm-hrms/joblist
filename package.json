@@ -1,0 +1,29 @@
+{
+  "name": "joblist",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Agency Works job list - digital tracker for the weekly agency joblist",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "dev": "concurrently -k -n api,web -c blue,green \"node --watch --disable-warning=ExperimentalWarning server/index.js\" \"vite\"",
+    "build": "vite build",
+    "start": "NODE_ENV=production node --disable-warning=ExperimentalWarning server/index.js",
+    "seed": "node --disable-warning=ExperimentalWarning server/seed.js --reset"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "express": "^5.3.0",
+    "jsonwebtoken": "^9.0.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^6.2.1",
+    "concurrently": "^10.0.6",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "vite": "^8.3.6"
+  }
+}
