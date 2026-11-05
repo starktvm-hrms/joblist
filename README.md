@@ -60,6 +60,19 @@ them in the app under *Password* and *Users*. Run `npm run seed` to wipe the dat
 | `ADMIN_PASSWORD` / `SEED_PASSWORD` | `admin123` / `welcome123` | Initial passwords (first seed only) |
 | `INSECURE_COOKIE` | unset | Set to `1` to serve production over plain HTTP |
 
+### Deploying to a VPS (Ubuntu + nginx)
+
+Point the domain's DNS at the server, then run this as root on the VPS:
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/starktvm-hrms/joblist/claude/agency-joblist-dashboard-82rami/deploy/install.sh | bash
+```
+
+This installs Node 22, clones to `/opt/joblist`, builds the app and runs it as the `joblist` systemd service on a
+localhost port. It also adds an nginx site and gets a Let's Encrypt certificate. Secrets go in `/etc/joblist.env`, the
+database in `/var/lib/joblist`, and the generated first-login passwords in `/root/joblist-credentials.txt`. Run the
+same command again to update. Use `DOMAIN=...` to install on a different domain. Logs: `journalctl -u joblist -f`.
+
 ### Re-importing from Excel
 
 ```bash

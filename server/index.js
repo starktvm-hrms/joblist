@@ -20,4 +20,5 @@ if (fs.existsSync(dist)) {
 }
 
 const port = Number(process.env.PORT) || 3001;
-app.listen(port, () => console.log(`Joblist running on http://localhost:${port}`));
+const host = process.env.HOST || '0.0.0.0';
+app.listen(port, host, () => console.log(`Joblist running on http://${host}:${port}`));
