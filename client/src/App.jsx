@@ -2,6 +2,7 @@ import React, { useCallback, useEffect, useState } from 'react';
 import { api, ROLE_LABELS } from './api.js';
 import Login from './pages/Login.jsx';
 import Board from './pages/Board.jsx';
+import Board2 from './pages/Board2.jsx';
 import Users from './pages/Users.jsx';
 import Teams from './pages/Teams.jsx';
 import PasswordModal from './components/PasswordModal.jsx';
@@ -43,6 +44,7 @@ export default function App() {
   const team = meta?.teams.find((t) => t.id === user.team_id);
   const nav = [
     ['board', 'Job List'],
+    ['board2', 'Job List 2'],
     ...(user.role !== 'member' ? [['teams', 'Teams']] : []),
     ...(user.role === 'admin' ? [['users', 'Users']] : []),
   ];
@@ -70,6 +72,7 @@ export default function App() {
       </header>
       <main>
         {!meta ? <div className="splash">Loading…</div>
+          : page === 'board2' ? <Board2 meta={meta} user={user} />
           : page === 'users' && user.role === 'admin' ? <Users meta={meta} me={user} />
           : page === 'teams' && user.role !== 'member' ? <Teams meta={meta} me={user} reload={loadMeta} />
           : <Board meta={meta} user={user} reloadMeta={loadMeta} />}
